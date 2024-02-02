@@ -1,0 +1,41 @@
+.FollowersCard {
+    background-color: rgb(20, 27, 35);
+    padding: 10px 10px;
+    color: white;
+    font-family: "Poppy", sans-serif;
+    border-radius: 5px;
+    text-align: center;
+
+    .row {
+        display: 
+        flex;
+        justify-content: space-between;
+    }
+
+    .line {
+        color: white;
+        border: solid 1px grey;
+    }
+    
+
+    
+    .left-column .right-column {
+        width: 20%;
+        text-align: center;
+        justify-content: center;
+        flex-direction: center;
+      }
+    
+    .left-column {
+        font-weight: 300;
+        text-align: center;
+    }
+    
+    .right-column {
+        font-weight: 600;
+        text-align: center;
+        padding-left: 1px;
+    }
+}    
+
+

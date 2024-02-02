@@ -1,0 +1,45 @@
+.repDetails {
+    color: white;
+    font-family:'Poppins', sans-serif;
+    margin-left: 30px;
+
+    .detailsHeader {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .public {
+        background-color: rgb(28, 32, 56);
+        padding: 15px 25px;
+        color: white;
+        font-family: "Poppy", sans-serif;
+        border-radius: 10px;
+    }
+
+    .detailsUserName {
+        vertical-align: middle;
+    }
+
+    h2 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .aboutSection {
+        margin-bottom: 20px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    .detailIcons {
+        margin-bottom: 10px;
+    }
+
+    strong {
+        color: rgb(110, 99, 184);
+    }
+
+
+}

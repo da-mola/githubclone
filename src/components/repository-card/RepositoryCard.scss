@@ -1,0 +1,26 @@
+.container {
+    background: linear-gradient(to right,  rgb(20, 27, 35), rgb(3, 40, 96));
+    color: white ;
+    text-align: left;
+    border-radius: 25px;
+    padding: 20px;
+    width: 40%;
+    margin-bottom: 15px;
+    padding-left: 30px;
+
+    .repositoryCardDescription {
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+
+    span{
+      display:inline-flex;
+      align-items: center;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+  

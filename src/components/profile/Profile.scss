@@ -1,0 +1,41 @@
+.profile {
+    margin:auto;
+    padding: 3px 4px;
+    background-color: rgb(46, 52, 59);
+    color: white;
+    font-family: "Poppy", sans-serif;
+    margin-bottom: 15px;
+    width: 75%;
+}
+
+.row {
+    display: flex;
+}
+
+.column-1{
+    flex: 19%;
+    padding: 10px;
+  }
+
+  .column-2{
+    flex: 27%;
+    padding: 10px;
+  }
+
+  .profilePicture {
+    justify-content: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+  }
+
+#userName #userDecsription {
+    color: white;
+    font-family: "Poppy", sans-serif;
+}
+
+#userName {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
